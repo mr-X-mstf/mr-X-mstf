@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mr-X-mstf
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning PHP,C and Python
+- 📫 You to reach me on mrXmstf@gmail.com
+- 😄 Pronouns: he/him
